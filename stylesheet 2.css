@@ -1,0 +1,67 @@
+ body {
+     background: rgb(251, 255, 41);
+ }
+ .jumbotron  {
+    background-color: rgba(166, 48, 212, 0.966);
+    font-family: fantasy;
+    color: blue;
+    height: 425px;
+ }
+ .form-page{
+     color: blue;
+     font-family: 'Courier New', Courier, monospace;
+     font-size: 40px;
+ }
+ .container{
+     display: grid;
+    height: 40%;
+    width: 40%;
+}
+ .display-5{
+     color: forestgreen;
+ }
+ .lead{
+     color: rgb(14, 8, 43);
+ }
+.nested{
+    color: yellow;
+    background-color: black;
+}
+#definition{
+    padding: 2px;
+}
+  #first{
+      color: hsl(0, 88%, 51%);
+  } 
+.img{ 
+    width: auto;
+    height: auto;
+    justify-content: right;
+    align-items: center;
+}
+#index-heading-text {
+    font-size: 575%;
+    color: forestgreen;
+}
+p { 
+    font-family: fantasy;
+    font-size: 18px;
+    text-indent: 2em;
+}
+h2 {
+    font-family: fantasy;
+    font-size: 250%;
+color: black;
+}
+h4{
+    font-size: 30px;
+    Color: brown;
+}
+h2  {
+    color: salmon;
+}
+#today{
+    font-size: 22px;
+    border: double purple;
+    color: red;
+}
